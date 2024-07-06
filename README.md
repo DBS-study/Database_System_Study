@@ -25,7 +25,7 @@
 
 | 장   | 제목                                  | 날짜 | 링크(세진) | 링크(동훈) | 
 | ---- | ------------------------------------- | ---- | ---- | ---- |
-| 제1장 | Introduction                          | 7/8 |  | |
+| 제1장 | Introduction                          | 7/8 | https://docs.google.com/document/d/1JUbXP5vphUiFMq9MNoJL9WzblCca1Qj6-1P81kcEHgw/edit?usp=sharing | |
 | 제2장 | Introduction to the Relational Model  | 7/8 |  | | 
 | 제3장 | Introduction to SQL                   | 7/8 |  | |
 | 제4장 | Intermediate SQL                      | 7/8 |  | |
