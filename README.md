@@ -28,5 +28,5 @@
 | 제1장 | Introduction                          | 7/8 | https://docs.google.com/document/d/1JUbXP5vphUiFMq9MNoJL9WzblCca1Qj6-1P81kcEHgw/edit?usp=sharing | |
 | 제2장 | Introduction to the Relational Model  | 7/8 | https://docs.google.com/document/d/1OJIlhO4gIxMHBplFGXN4Mju6Fl3MhRYU4-XL0vwtGro/edit?usp=sharing | | 
 | 제3장 | Introduction to SQL                   | 7/8 | https://docs.google.com/document/d/1VeO0f0Npcm3Mqmkz4qWcPsZfW7D8YBZgXVJlGKdwX0Y/edit?usp=sharing | |
-| 제4장 | Intermediate SQL                      | 7/8 |  | |
+| 제4장 | Intermediate SQL                      | 7/8 | https://docs.google.com/document/d/1WZ2_9lj5oBkhaTR0xBFDW-zvLy1OVJORDlRgp7iH_Ck/edit?usp=sharing | |
 | 제5장 | Advanced SQL                          | 7/15 |  | |
